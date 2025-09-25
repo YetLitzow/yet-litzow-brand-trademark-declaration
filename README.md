@@ -1,0 +1,1 @@
+# yet-litzow-brand-trademark-declaration
