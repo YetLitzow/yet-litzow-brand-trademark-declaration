@@ -1,34 +1,61 @@
-# yet-litzow-brand-trademark-declaration
-## Yet Litzow – Ludologist, Technologist, Creator
+## Yet Litzow – Ludologist, Technologist, Artist, Producer, Scholar
 
-Multidisciplinary theorist and practitioner in:
+A polymath innovator working across multiple trademark classes:
 
-🎮 **Ludology & Game Design**  
-- Theoretical and practical exploration of play, systems, and emergent mechanics  
-- Development of original game frameworks and interactive experiences  
+---
 
-🧠 **Physics-Mathematics & Cognitive Science**  
-- Research in mathematical modeling and cognitive architectures  
-- Integration of scientific theory into game mechanics and AI behavior  
+### 🎮 Ludology & Game Design  
+**Trademark Class 9** – Downloadable software, video games, game engines  
+**Trademark Class 42** – Game development services, software design  
 
-💻 **Software & Hardware Inventions**  
-- Creator of innovative tools across IT, AI, and CGI domains  
-- Developer of custom hardware interfaces for immersive experiences  
+---
 
-🎬 **Film & Performance Arts**  
-- Actor, director, and producer across all cinematic genres  
-- Skilled in cinematography, editing, and narrative design  
+### 🧠 Scientific Research & Cognitive Modeling  
+**Trademark Class 42** – Scientific and technological services, cognitive science modeling  
+**Trademark Class 41** – Educational services in physics, mathematics, and cognitive science  
 
-🎵 **Music Composition & Production**  
-- Composer across diverse musical genres  
-- Sound design for games, films, and digital media  
+---
 
-🕹️ **eSports & Streaming**  
-- Participant, organizer, and promoter of competitive gaming events  
-- Content creator and live streamer across global platforms  
+### 📚 Academic Publishing & Research Dissemination  
+**Trademark Class 41** – Educational services, academic lectures, scholarly presentations  
+**Trademark Class 16** – Printed publications, journals, books, research papers  
+**Trademark Class 9** – Digital publications, e-books, downloadable academic content  
 
-🌍 **International Reach**  
-Active in:  
-Mexico 🇲🇽 | United States 🇺🇸 | United Kingdom 🇬🇧 | Spain 🇪🇸 | Japan 🇯🇵 | South Korea 🇰🇷 | Germany 🇩🇪 | Italy 🇮🇹 | Portugal 🇵🇹  
+---
+
+### 💻 Software & Hardware Inventions  
+**Trademark Class 9** – Electronic devices, AI tools, CGI systems  
+**Trademark Class 42** – IT consulting, software as a service (SaaS), hardware prototyping  
+
+---
+
+### 🎬 Film Production & Performance  
+**Trademark Class 41** – Film direction, acting, production across all genres  
+**Trademark Class 9** – Cinematic software, editing tools  
+
+---
+
+### 🎵 Music Composition & Sound Design  
+**Trademark Class 41** – Musical composition, sound production, live performances  
+**Trademark Class 9** – Audio software, digital instruments  
+
+---
+
+### 🕹️ eSports Participation & Organization  
+**Trademark Class 41** – Organization of gaming competitions and tournaments  
+**Trademark Class 35** – Promotion and marketing of eSports events  
+
+---
+
+### 📺 Content Creation & Streaming  
+**Trademark Class 41** – Online entertainment, streaming services  
+**Trademark Class 35** – Influencer marketing, brand promotion  
+
+---
+
+### 🌍 International Activity  
+Trademark presence and creative operations in:  
+🇲🇽 Mexico | 🇺🇸 United States | 🇬🇧 United Kingdom | 🇪🇸 Spain | 🇯🇵 Japan  
+🇰🇷 South Korea | 🇩🇪 Germany | 🇮🇹 Italy | 🇵🇹 Portugal  
 
 ---
