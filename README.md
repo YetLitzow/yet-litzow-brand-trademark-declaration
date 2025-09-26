@@ -1,61 +1,47 @@
-## Yet Litzow – Ludologist, Technologist, Artist, Producer, Scholar
+# 📜 Timestamp: Ludologist Profile for Yet Litzow
 
-A polymath innovator working across multiple trademark classes:
-
----
-
-### 🎮 Ludology & Game Design  
-**Trademark Class 9** – Downloadable software, video games, game engines  
-**Trademark Class 42** – Game development services, software design  
+**Date:** September 25, 2025  
+**Location:** Cancún, QR, México  
+**Platform:** GitHub  
+**Subject:** Trademark Class Documentation for Yet Litzow
 
 ---
 
-### 🧠 Scientific Research & Cognitive Modeling  
-**Trademark Class 42** – Scientific and technological services, cognitive science modeling  
-**Trademark Class 41** – Educational services in physics, mathematics, and cognitive science  
+## 🧠 Trademark Classes by Domain (Nice Classification)
+
+| Domain | Description | Trademark Class |
+|--------|-------------|-----------------|
+| **Ludologist** | Game theory, play studies, ludic systems | Class 41 (Education & Entertainment) |
+| **Theorist** | Mathematical physics, computer science, cognitive science, aesthetics | Class 42 (Scientific & Technological Services), Class 16 (Printed Publications)|
+| **Inventor** | Software, hardware, electromechanics, mechatronics, cyber-physical systems | Class 9 (Software & Electronics), Class 42 |
+| **Gamer** | eSports participation, tournament organization, streaming, content creation | Class 41 |
+| **Video Game Designer & Developer** | Technical art, ludonarrative design, game development | Class 9, Class 41, Class 42 |
 
 ---
 
-### 📚 Academic Publishing & Research Dissemination  
-**Trademark Class 41** – Educational services, academic lectures, scholarly presentations  
-**Trademark Class 16** – Printed publications, journals, books, research papers  
-**Trademark Class 9** – Digital publications, e-books, downloadable academic content  
+## 🌍 Countries of Trademark Coverage
+
+| Country        | ISO Code | Region         |
+|----------------|----------|----------------|
+| Mexico         | MX       | Latin America  |
+| United States  | US       | North America  |
+| United Kingdom | GB       | Europe         |
+| Spain          | ES       | Europe         |
+| Japan          | JP       | Asia           |
+| South Korea    | KR       | Asia           |
+| Germany        | DE       | Europe         |
+| Italy          | IT       | Europe         |
 
 ---
 
-### 💻 Software & Hardware Inventions  
-**Trademark Class 9** – Electronic devices, AI tools, CGI systems  
-**Trademark Class 42** – IT consulting, software as a service (SaaS), hardware prototyping  
+## 🗂️ Notes
+
+- This timestamp serves as a formal declaration of professional scope and international trademark class alignment for Yet Litzow.
+- It is intended for archival, legal, and professional reference within GitHub and other intellectual property documentation platforms.
+- Trademark classes are based on the **Nice Classification System**, used globally for standardizing trademark filings.
 
 ---
 
-### 🎬 Film Production & Performance  
-**Trademark Class 41** – Film direction, acting, production across all genres  
-**Trademark Class 9** – Cinematic software, editing tools  
-
----
-
-### 🎵 Music Composition & Sound Design  
-**Trademark Class 41** – Musical composition, sound production, live performances  
-**Trademark Class 9** – Audio software, digital instruments  
-
----
-
-### 🕹️ eSports Participation & Organization  
-**Trademark Class 41** – Organization of gaming competitions and tournaments  
-**Trademark Class 35** – Promotion and marketing of eSports events  
-
----
-
-### 📺 Content Creation & Streaming  
-**Trademark Class 41** – Online entertainment, streaming services  
-**Trademark Class 35** – Influencer marketing, brand promotion  
-
----
-
-### 🌍 International Activity  
-Trademark presence and creative operations in:  
-🇲🇽 Mexico | 🇺🇸 United States | 🇬🇧 United Kingdom | 🇪🇸 Spain | 🇯🇵 Japan  
-🇰🇷 South Korea | 🇩🇪 Germany | 🇮🇹 Italy | 🇵🇹 Portugal  
-
----
+**Signed:**  
+_The GitHub Archive of Yet Litzow_  
+_Ludologist, Theorist, Inventor, Gamer, Designer_
